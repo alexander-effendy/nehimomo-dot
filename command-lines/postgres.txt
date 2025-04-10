@@ -1,0 +1,8 @@
+brew install postgresql
+brew services start postgresql
+
+psql --version
+source ~/.zshrc
+
+/opt/homebrew/opt/postgresql@14/bin/createuser -s $(whoami)
+createdb $(whoami)
