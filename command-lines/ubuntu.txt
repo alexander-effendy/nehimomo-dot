@@ -1,0 +1,20 @@
+to clear build storage (ubuntu server)
+
+ssh alex@whatif-tool.ahdap.org
+sudo su
+
+** gives you a summary of disk space usage for each mounted filesystem on your system ** 
+df -h
+
+** see exactly whats inside the folder **
+du -sh * | sort -hr
+
+** will show you something like this **
+2.6G	build
+824M	files
+70M	build_new
+
+** check / path **
+sudo du -hxd1 / | sort -hr | head -n 10
+
+** usually it is the /var and /var/www that are big, clear em **
