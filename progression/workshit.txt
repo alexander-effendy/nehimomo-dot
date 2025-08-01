@@ -1,0 +1,10 @@
+** BIKEABILITY **
+
+- Fix all the issues NCDAP58
+- Refactor everything to Functional React
+- Change UI + Css animation
+
+** WHATIF **
+
+- Pass suitability land use color into the second map
+- Build APIs to update colours for each subfactors of suitability factors

@@ -1,0 +1,31 @@
+** Learning Auth **
+
+- watch: 
+  ** https://www.youtube.com/watch?v=AcYF18oGn6Y&t=27s ✅
+  ** https://www.youtube.com/watch?v=JZXQ455OT3A&list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw
+- auth-jwt
+- auth-kinde
+- auth-okta
+
+
+** Learning GSAP **
+
+- watch: N/A
+
+
+** Learning Convex **
+
+- Understand syntax and the concept of MUTATION, QUERY, and ACTION
+- Convex allows 20 projects deployed online so is a good option
+
+
+** Using React Native **
+
+- Planning to build an iphone app to do medical Booking?
+- Maybe extend Mushu AI to iphone also?
+
+
+** Using Jotai **
+
+- Now that you understand Zustand, time to explore Jotai to see how much simpler the syntax is
+
